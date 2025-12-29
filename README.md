@@ -26,21 +26,17 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+<h2 align="center">My Statistics:</h2>
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code Spin-YT&layout=compact&theme=dark&langs_count=8"/>
-  
-  </td>
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://streak-stats.demolab.com?user=CodeSpin-YT&theme=dark&hide_border=true" />
+</td>
+
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true" />
+</td>
 </tr>
 </table>
 
