@@ -47,7 +47,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.youtube.com/@CodeSpin-i1w" target="blank"><img align="center" src="https://www.flaticon.es/icono-   gratis/youtube_174883" alt="Devel" height="50" width="50" /></a>
+  <a href="https://www.youtube.com/@CodeSpin-i1w" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/208/269/png-transparent-youtube-play-button-computer-icons-youtube-youtube-logo-angle-rectangle-logo-thumbnail.png" alt="Devel" height="50" width="50" /></a>
 </p>
 
 ---
