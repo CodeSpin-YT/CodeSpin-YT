@@ -27,40 +27,11 @@
 ---
 ## 👨‍💻 My GitHub Stats
 
-> Turning ☕ coffee into 💻 code, 🐛 bugs into 🚀 features.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeSpin-YT&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=CodeSpin-YT&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSpin-YT&layout=compact)
 
----
-
-## 💻 Most Used Languages
-
-> I definitely planned to use all of them equally 👀
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSpin-YT&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-> Consistency beats motivation. Every. Single. Time.
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=CodeSpin-YT&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=CodeSpin-YT)
 
 ---
 
