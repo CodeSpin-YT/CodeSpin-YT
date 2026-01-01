@@ -26,19 +26,38 @@
 
 ---
 
-<h2 align="center">My Statistics:</h2>
+<!-- GitHub Stats Card -->
+<div style="
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  font-family: 'Segoe UI', sans-serif;
+">
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://streak-stats.demolab.com?user=CodeSpin-YT&theme=dark&hide_border=true" />
-</td>
+  <h2>👨‍💻 My Stats</h2>
+  <p>Compiling coffee ☕ → code 💻 → bugs 🐛 → solutions 🚀</p>
 
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true" />
-</td>
-</tr>
-</table>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+  <small style="opacity: 0.7;">
+    ⚡ Powered by bugs fixed at 3 AM
+  </small>
+</div>
+
 
 ---
 
