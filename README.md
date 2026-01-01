@@ -25,13 +25,31 @@
 </table>
 
 ---
-## 👨‍💻 My GitHub Stats
+## 👋 Hi, I'm here… coding in silence
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeSpin-YT&show_icons=true&theme=tokyonight)
+> New profile. Fresh commits. Big plans 🚀
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSpin-YT&layout=compact)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CodeSpin-YT)
+## 📊 GitHub Stats (Newbie Edition)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeSpin-YT&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
+
+---
+
+## 🧠 Languages I'm learning
+
+> Rome wasn't built in a day… neither was my GitHub 😅
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSpin-YT&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 Streak (loading...)
+
+> Consistency starts today 💪
+
+![GitHub Streak](https://streak-stats.demolab.com?user=CodeSpin-YT&theme=tokyonight&hide_border=true)
 
 ---
 
